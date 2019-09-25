@@ -2,3 +2,5 @@
 .Rhistory
 .RData
 .*.Rnb.cached
+revdep/checks*
+revdep/library*
